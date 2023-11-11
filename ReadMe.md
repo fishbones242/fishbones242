@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fishbones242/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/treb-dc/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dfntlynotbertwu) 
 
 # Certifications 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="90" height="120"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="90" height="120"> <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"  width="90" height="120">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="90" height="115"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="90" height="115"> <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"  width="90" height="115">
 
 
 
